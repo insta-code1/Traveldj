@@ -1,7 +1,275 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4355c1ae-edc0-4682-ac13-f76414b30a2d" name="Default" comment="" />
+    <list default="true" id="4355c1ae-edc0-4682-ac13-f76414b30a2d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/jquery-ui-1.10.4.custom.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/travelapp/templates/footer.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/jquery-ui-1.10.4.custom.min.css" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Documentation/assets/images/carousel.jpg" afterPath="$PROJECT_DIR$/static/Documentation/assets/images/carousel.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Documentation/assets/images/counter.jpg" afterPath="$PROJECT_DIR$/static/Documentation/assets/images/counter.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Documentation/assets/images/guide.jpg" afterPath="$PROJECT_DIR$/static/Documentation/assets/images/guide.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Documentation/assets/images/listTrip.jpg" afterPath="$PROJECT_DIR$/static/Documentation/assets/images/listTrip.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Documentation/assets/images/logo.jpg" afterPath="$PROJECT_DIR$/static/Documentation/assets/images/logo.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Documentation/assets/images/meteo.jpg" afterPath="$PROJECT_DIR$/static/Documentation/assets/images/meteo.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Documentation/assets/images/reservationForm.jpg" afterPath="$PROJECT_DIR$/static/Documentation/assets/images/reservationForm.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Documentation/assets/images/slideCenter.jpg" afterPath="$PROJECT_DIR$/static/Documentation/assets/images/slideCenter.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Documentation/css/style.css" afterPath="$PROJECT_DIR$/static/Documentation/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Documentation/index.html" afterPath="$PROJECT_DIR$/static/Documentation/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Photos/3553340691_1855d48932_b.jpg" afterPath="$PROJECT_DIR$/static/Photos/3553340691_1855d48932_b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Photos/3554151396_c8ee23f3dc_b.jpg" afterPath="$PROJECT_DIR$/static/Photos/3554151396_c8ee23f3dc_b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Photos/Back of guy in vineyard with hat sunlight unsplash photo-1439003511744-2a0490ea0a88.jpg" afterPath="$PROJECT_DIR$/static/Photos/Back of guy in vineyard with hat sunlight unsplash photo-1439003511744-2a0490ea0a88.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Photos/black grapes with sunlight unsplash photo-1441704430085-daaa9efd7317.jpg" afterPath="$PROJECT_DIR$/static/Photos/black grapes with sunlight unsplash photo-1441704430085-daaa9efd7317.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Photos/caminito-rey-malaga.jpg" afterPath="$PROJECT_DIR$/static/Photos/caminito-rey-malaga.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Photos/edited for 1920 x 1080.jpg" afterPath="$PROJECT_DIR$/static/Photos/edited for 1920 x 1080.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Photos/grapes on unsplash.JPG" afterPath="$PROJECT_DIR$/static/Photos/grapes on unsplash.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Photos/hidden spain  unsplash photo-1458934876533-9becb2380c47.jpg" afterPath="$PROJECT_DIR$/static/Photos/hidden spain  unsplash photo-1458934876533-9becb2380c47.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Photos/lemons on a tree unsplash photo-1432457990754-c8b5f21448de.jpg" afterPath="$PROJECT_DIR$/static/Photos/lemons on a tree unsplash photo-1432457990754-c8b5f21448de.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Photos/meats and wine unsplash photo-1456350634533-b14135aab05b.jpg" afterPath="$PROJECT_DIR$/static/Photos/meats and wine unsplash photo-1456350634533-b14135aab05b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Photos/sardines in photo-1447099688328-2488c8c9648a (1).jpg" afterPath="$PROJECT_DIR$/static/Photos/sardines in photo-1447099688328-2488c8c9648a (1).jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/Photos/walnuts unsplash photo-1453368243168-0e39a069e468.jpg" afterPath="$PROJECT_DIR$/static/Photos/walnuts unsplash photo-1453368243168-0e39a069e468.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/assets/arrow_large_left.png" afterPath="$PROJECT_DIR$/static/assets/arrow_large_left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/assets/arrow_large_right.png" afterPath="$PROJECT_DIR$/static/assets/arrow_large_right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/assets/arrow_small_left.png" afterPath="$PROJECT_DIR$/static/assets/arrow_small_left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/assets/arrow_small_right.png" afterPath="$PROJECT_DIR$/static/assets/arrow_small_right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/assets/bollet.png" afterPath="$PROJECT_DIR$/static/assets/bollet.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/assets/bollet_hover.png" afterPath="$PROJECT_DIR$/static/assets/bollet_hover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/assets/btn_arow2.png" afterPath="$PROJECT_DIR$/static/assets/btn_arow2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/assets/loader.gif" afterPath="$PROJECT_DIR$/static/assets/loader.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/contact_form/contact_process.php" afterPath="$PROJECT_DIR$/static/contact_form/contact_process.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/animate.css" afterPath="$PROJECT_DIR$/static/css/animate.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/bootstrap.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/carousel/component.css" afterPath="$PROJECT_DIR$/static/css/carousel/component.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/carousel/default.css" afterPath="$PROJECT_DIR$/static/css/carousel/default.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/custom.css" afterPath="$PROJECT_DIR$/static/css/custom.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/flexslider.css" afterPath="$PROJECT_DIR$/static/css/flexslider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/HELP-US-OUT.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/css/font-awesome.css" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/css/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/less/animated.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/animated.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/bordered-pulled.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/less/core.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/core.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/less/fixed-width.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/fixed-width.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/less/font-awesome.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/font-awesome.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/less/icons.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/icons.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/less/larger.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/larger.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/less/list.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/list.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/less/mixins.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/mixins.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/less/path.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/path.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/rotated-flipped.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/less/stacked.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/stacked.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/less/variables.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/variables.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/scss/_animated.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_animated.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_bordered-pulled.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/scss/_core.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_core.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_fixed-width.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/scss/_icons.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_icons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/scss/_larger.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_larger.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/scss/_list.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_list.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/scss/_mixins.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_mixins.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/scss/_path.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_path.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_rotated-flipped.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/scss/_stacked.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_stacked.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/scss/_variables.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/font-awesome-4.4.0/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/font-awesome.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/fonts/bpicons/bpicons.eot" afterPath="$PROJECT_DIR$/static/css/fonts/bpicons/bpicons.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/fonts/bpicons/bpicons.svg" afterPath="$PROJECT_DIR$/static/css/fonts/bpicons/bpicons.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/fonts/bpicons/bpicons.ttf" afterPath="$PROJECT_DIR$/static/css/fonts/bpicons/bpicons.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/fonts/bpicons/bpicons.woff" afterPath="$PROJECT_DIR$/static/css/fonts/bpicons/bpicons.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/fonts/bpicons/license.txt" afterPath="$PROJECT_DIR$/static/css/fonts/bpicons/license.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/fonts/flexslider-icon.eot" afterPath="$PROJECT_DIR$/static/css/fonts/flexslider-icon.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/fonts/flexslider-icon.svg" afterPath="$PROJECT_DIR$/static/css/fonts/flexslider-icon.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/fonts/flexslider-icon.ttf" afterPath="$PROJECT_DIR$/static/css/fonts/flexslider-icon.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/fonts/flexslider-icon.woff" afterPath="$PROJECT_DIR$/static/css/fonts/flexslider-icon.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/fonts/fontawesome/fontawesome.eot" afterPath="$PROJECT_DIR$/static/css/fonts/fontawesome/fontawesome.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/fonts/fontawesome/fontawesome.svg" afterPath="$PROJECT_DIR$/static/css/fonts/fontawesome/fontawesome.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/fonts/fontawesome/fontawesome.ttf" afterPath="$PROJECT_DIR$/static/css/fonts/fontawesome/fontawesome.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/fonts/fontawesome/fontawesome.woff" afterPath="$PROJECT_DIR$/static/css/fonts/fontawesome/fontawesome.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/gallery/component.css" afterPath="$PROJECT_DIR$/static/css/gallery/component.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/images/animated-overlay.gif" afterPath="$PROJECT_DIR$/static/css/images/animated-overlay.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/images/ui-bg_diagonals-thick_18_b81900_40x40.png" afterPath="$PROJECT_DIR$/static/css/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterPath="$PROJECT_DIR$/static/css/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/images/ui-bg_flat_10_000000_40x100.png" afterPath="$PROJECT_DIR$/static/css/images/ui-bg_flat_10_000000_40x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/images/ui-bg_glass_100_f6f6f6_1x400.png" afterPath="$PROJECT_DIR$/static/css/images/ui-bg_glass_100_f6f6f6_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/images/ui-bg_glass_100_fdf5ce_1x400.png" afterPath="$PROJECT_DIR$/static/css/images/ui-bg_glass_100_fdf5ce_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="$PROJECT_DIR$/static/css/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/images/ui-bg_gloss-wave_35_f6a828_500x100.png" afterPath="$PROJECT_DIR$/static/css/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterPath="$PROJECT_DIR$/static/css/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterPath="$PROJECT_DIR$/static/css/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/images/ui-icons_222222_256x240.png" afterPath="$PROJECT_DIR$/static/css/images/ui-icons_222222_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/images/ui-icons_228ef1_256x240.png" afterPath="$PROJECT_DIR$/static/css/images/ui-icons_228ef1_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/images/ui-icons_ef8c08_256x240.png" afterPath="$PROJECT_DIR$/static/css/images/ui-icons_ef8c08_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/images/ui-icons_ffd27a_256x240.png" afterPath="$PROJECT_DIR$/static/css/images/ui-icons_ffd27a_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/images/ui-icons_ffffff_256x240.png" afterPath="$PROJECT_DIR$/static/css/images/ui-icons_ffffff_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/jquery.bxslider.css" afterPath="$PROJECT_DIR$/static/css/jquery.bxslider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/layout2.css" afterPath="$PROJECT_DIR$/static/css/layout2.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/list/component.css" afterPath="$PROJECT_DIR$/static/css/list/component.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/meteo/example.css" afterPath="$PROJECT_DIR$/static/css/meteo/example.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/oxy_slider/slider.css" afterPath="$PROJECT_DIR$/static/css/oxy_slider/slider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/preload/animate.css" afterPath="$PROJECT_DIR$/static/css/preload/animate.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/preload/main.css" afterPath="$PROJECT_DIR$/static/css/preload/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/responsive.css" afterPath="$PROJECT_DIR$/static/css/responsive.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/settings.css" afterPath="$PROJECT_DIR$/static/css/settings.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/settings_slide2.css" afterPath="$PROJECT_DIR$/static/css/settings_slide2.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/css/travel-mega-menu.css" afterPath="$PROJECT_DIR$/static/css/travel-mega-menu.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/2star.png" afterPath="$PROJECT_DIR$/static/images/2star.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/3star.png" afterPath="$PROJECT_DIR$/static/images/3star.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/4star.png" afterPath="$PROJECT_DIR$/static/images/4star.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/5star.png" afterPath="$PROJECT_DIR$/static/images/5star.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/about/service1.png" afterPath="$PROJECT_DIR$/static/images/about/service1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/africa3.png" afterPath="$PROJECT_DIR$/static/images/africa3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/bg_p.png" afterPath="$PROJECT_DIR$/static/images/bg_p.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/bx_loader.gif" afterPath="$PROJECT_DIR$/static/images/bx_loader.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/claud.png" afterPath="$PROJECT_DIR$/static/images/claud.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/claud2.png" afterPath="$PROJECT_DIR$/static/images/claud2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/continent/continent_1.png" afterPath="$PROJECT_DIR$/static/images/continent/continent_1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/continent/continent_2.png" afterPath="$PROJECT_DIR$/static/images/continent/continent_2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/continent/continent_3.png" afterPath="$PROJECT_DIR$/static/images/continent/continent_3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/continent/continent_4.png" afterPath="$PROJECT_DIR$/static/images/continent/continent_4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/continent/continent_5.png" afterPath="$PROJECT_DIR$/static/images/continent/continent_5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/continent/continent_clear/continent_1.png" afterPath="$PROJECT_DIR$/static/images/continent/continent_clear/continent_1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/continent/continent_clear/continent_2.png" afterPath="$PROJECT_DIR$/static/images/continent/continent_clear/continent_2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/continent/continent_clear/continent_3.png" afterPath="$PROJECT_DIR$/static/images/continent/continent_clear/continent_3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/continent/continent_clear/continent_4.png" afterPath="$PROJECT_DIR$/static/images/continent/continent_clear/continent_4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/continent/continent_clear/continent_5.png" afterPath="$PROJECT_DIR$/static/images/continent/continent_clear/continent_5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/csb-left.png" afterPath="$PROJECT_DIR$/static/images/csb-left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/csb-right.png" afterPath="$PROJECT_DIR$/static/images/csb-right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/custom-form-elements.png" afterPath="$PROJECT_DIR$/static/images/custom-form-elements.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/flags/de.gif" afterPath="$PROJECT_DIR$/static/images/flags/de.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/flags/en.gif" afterPath="$PROJECT_DIR$/static/images/flags/en.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/flags/fr.gif" afterPath="$PROJECT_DIR$/static/images/flags/fr.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/flags/it.gif" afterPath="$PROJECT_DIR$/static/images/flags/it.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/fly/1.png" afterPath="$PROJECT_DIR$/static/images/fly/1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/fly/2.png" afterPath="$PROJECT_DIR$/static/images/fly/2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/fly/3.png" afterPath="$PROJECT_DIR$/static/images/fly/3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/fly/4.jpg" afterPath="$PROJECT_DIR$/static/images/fly/4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/fly/4.png" afterPath="$PROJECT_DIR$/static/images/fly/4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/info-help1.png" afterPath="$PROJECT_DIR$/static/images/info-help1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/info-help2.png" afterPath="$PROJECT_DIR$/static/images/info-help2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/info-help3.png" afterPath="$PROJECT_DIR$/static/images/info-help3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/info-help4.png" afterPath="$PROJECT_DIR$/static/images/info-help4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/last-minute2.png" afterPath="$PROJECT_DIR$/static/images/last-minute2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/logo.jpg" afterPath="$PROJECT_DIR$/static/images/logo.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/logofly.png" afterPath="$PROJECT_DIR$/static/images/logofly.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/logoslider.png" afterPath="$PROJECT_DIR$/static/images/logoslider.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/marker.png" afterPath="$PROJECT_DIR$/static/images/marker.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/minus-white.png" afterPath="$PROJECT_DIR$/static/images/minus-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/newslettersubmit.png" afterPath="$PROJECT_DIR$/static/images/newslettersubmit.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/plan.png" afterPath="$PROJECT_DIR$/static/images/plan.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/plus-white.png" afterPath="$PROJECT_DIR$/static/images/plus-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/sign.png" afterPath="$PROJECT_DIR$/static/images/sign.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/slider/bg_direction_nav.png" afterPath="$PROJECT_DIR$/static/images/slider/bg_direction_nav.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/social/dribble.jpg" afterPath="$PROJECT_DIR$/static/images/social/dribble.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/social/facebook.jpg" afterPath="$PROJECT_DIR$/static/images/social/facebook.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/social/google.jpg" afterPath="$PROJECT_DIR$/static/images/social/google.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/social/instagram.jpg" afterPath="$PROJECT_DIR$/static/images/social/instagram.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/social/twitter.jpg" afterPath="$PROJECT_DIR$/static/images/social/twitter.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/sprite.png" afterPath="$PROJECT_DIR$/static/images/sprite.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/star.png" afterPath="$PROJECT_DIR$/static/images/star.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/temple.png" afterPath="$PROJECT_DIR$/static/images/temple.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/textsand.jpg" afterPath="$PROJECT_DIR$/static/images/textsand.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/travego.png" afterPath="$PROJECT_DIR$/static/images/travego.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/travel-bg2.jpg" afterPath="$PROJECT_DIR$/static/images/travel-bg2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/womanbeach.png" afterPath="$PROJECT_DIR$/static/images/womanbeach.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/images/world-map.jpg" afterPath="$PROJECT_DIR$/static/images/world-map.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/1.png" afterPath="$PROJECT_DIR$/static/img/large/1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/2.png" afterPath="$PROJECT_DIR$/static/img/large/2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/3.png" afterPath="$PROJECT_DIR$/static/img/large/3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/4.png" afterPath="$PROJECT_DIR$/static/img/large/4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/5.png" afterPath="$PROJECT_DIR$/static/img/large/5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/6.png" afterPath="$PROJECT_DIR$/static/img/large/6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/Ronda.jpg" afterPath="$PROJECT_DIR$/static/img/large/Ronda.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/Seafood dish.jpg" afterPath="$PROJECT_DIR$/static/img/large/Seafood dish.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/alhambra_granada.jpg" afterPath="$PROJECT_DIR$/static/img/large/alhambra_granada.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/ballooning.jpg" afterPath="$PROJECT_DIR$/static/img/large/ballooning.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/blue black grapes on the vine.jpg" afterPath="$PROJECT_DIR$/static/img/large/blue black grapes on the vine.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/dinner in gourmet rest.jpg" afterPath="$PROJECT_DIR$/static/img/large/dinner in gourmet rest.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/foodlayout.jpg" afterPath="$PROJECT_DIR$/static/img/large/foodlayout.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/hands_holding_grapes.jpg" afterPath="$PROJECT_DIR$/static/img/large/hands_holding_grapes.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/pool.jpg" afterPath="$PROJECT_DIR$/static/img/large/pool.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/sabila_casita.jpg" afterPath="$PROJECT_DIR$/static/img/large/sabila_casita.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/seville.jpg" afterPath="$PROJECT_DIR$/static/img/large/seville.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/small table with tea and fruits.jpg" afterPath="$PROJECT_DIR$/static/img/large/small table with tea and fruits.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/table.jpg" afterPath="$PROJECT_DIR$/static/img/large/table.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/vineyard.jpg" afterPath="$PROJECT_DIR$/static/img/large/vineyard.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/large/wineyards.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/wineyards.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/1.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/10.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/11.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/12.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/12.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/13.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/13.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/2.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/3.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/4.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/5.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/6.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/7.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/8.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/9.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/California.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/California.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/mountains-and-vines.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/mountains-and-vines.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/mountains-and-vines2.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/mountains-and-vines2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/porto.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/porto.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/wineyard.jpg" afterPath="$PROJECT_DIR$/static/img/thumb/wineyard.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/img/thumb/wineyards.jpg" afterPath="$PROJECT_DIR$/static/img/large/wineyards.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/bootstrap-hover-dropdown.min.js" afterPath="$PROJECT_DIR$/static/js/bootstrap-hover-dropdown.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/carousel/jquery.cbpContentSlider.js" afterPath="$PROJECT_DIR$/static/js/carousel/jquery.cbpContentSlider.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/carousel/jquery.cbpContentSlider.min.js" afterPath="$PROJECT_DIR$/static/js/carousel/jquery.cbpContentSlider.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/carousel/modernizr.custom.js" afterPath="$PROJECT_DIR$/static/js/carousel/modernizr.custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/cbpFWTabs.js" afterPath="$PROJECT_DIR$/static/js/cbpFWTabs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/gallery/cbpGridGallery.js" afterPath="$PROJECT_DIR$/static/js/gallery/cbpGridGallery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/gallery/classie.js" afterPath="$PROJECT_DIR$/static/js/list/classie.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/gallery/imagesloaded.pkgd.min.js" afterPath="$PROJECT_DIR$/static/js/gallery/imagesloaded.pkgd.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/gallery/isotope.js" afterPath="$PROJECT_DIR$/static/js/gallery/isotope.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/gallery/masonry.pkgd.min.js" afterPath="$PROJECT_DIR$/static/js/gallery/masonry.pkgd.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/jquery-1.10.1.min.js" afterPath="$PROJECT_DIR$/static/js/jquery-1.10.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/jquery-migrate-1.2.1.min.js" afterPath="$PROJECT_DIR$/static/js/jquery-migrate-1.2.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/jquery-ui-1.10.4.custom.min.js" afterPath="$PROJECT_DIR$/static/js/jquery-ui-1.10.4.custom.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/jquery.accordion.js" afterPath="$PROJECT_DIR$/static/js/jquery.accordion.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/jquery.bxslider.js" afterPath="$PROJECT_DIR$/static/js/jquery.bxslider.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/jquery.bxslider.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.bxslider.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/jquery.counterup.js" afterPath="$PROJECT_DIR$/static/js/jquery.counterup.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/jquery.easing.1.3.js" afterPath="$PROJECT_DIR$/static/js/jquery.easing.1.3.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/jquery.mb.YTPlayer.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.mb.YTPlayer.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/jquery.themepunch.plugins.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.themepunch.plugins.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/jquery.themepunch.revolution.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.themepunch.revolution.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/jquery.uniform.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.uniform.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/list/cbpViewModeSwitch.js" afterPath="$PROJECT_DIR$/static/js/list/cbpViewModeSwitch.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/list/classie.js" afterPath="$PROJECT_DIR$/static/js/gallery/classie.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/list/jquery.mixitup.js" afterPath="$PROJECT_DIR$/static/js/list/jquery.mixitup.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/list/jquery.mixitup.min.js" afterPath="$PROJECT_DIR$/static/js/list/jquery.mixitup.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/list/modernizr.custom.js" afterPath="$PROJECT_DIR$/static/js/list/modernizr.custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/meteo/jquery.zweatherfeed.js" afterPath="$PROJECT_DIR$/static/js/meteo/jquery.zweatherfeed.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/meteo/jquery.zweatherfeed.min.js" afterPath="$PROJECT_DIR$/static/js/meteo/jquery.zweatherfeed.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/modernizr.js" afterPath="$PROJECT_DIR$/static/js/modernizr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/oxy_slider/main.js" afterPath="$PROJECT_DIR$/static/js/oxy_slider/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/preload/loadImg.js" afterPath="$PROJECT_DIR$/static/js/preload/loadImg.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/script.js" afterPath="$PROJECT_DIR$/static/js/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/slideproject/jquery.flexslider.js" afterPath="$PROJECT_DIR$/static/js/slideproject/jquery.flexslider.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/slideproject/shBrushJScript.js" afterPath="$PROJECT_DIR$/static/js/slideproject/shBrushJScript.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/slideproject/shBrushXml.js" afterPath="$PROJECT_DIR$/static/js/slideproject/shBrushXml.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/slideproject/shCore.js" afterPath="$PROJECT_DIR$/static/js/slideproject/shCore.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/tabs/jquery.responsiveTabs.js" afterPath="$PROJECT_DIR$/static/js/tabs/jquery.responsiveTabs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/tabs/jquery.responsiveTabs.min.js" afterPath="$PROJECT_DIR$/static/js/tabs/jquery.responsiveTabs.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/js/waypoints.min.js" afterPath="$PROJECT_DIR$/static/js/waypoints.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/base.html" afterPath="$PROJECT_DIR$/travelapp/templates/base.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/cd-hero-slider.html" afterPath="$PROJECT_DIR$/travelapp/templates/cd-hero-slider.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/index.html" afterPath="$PROJECT_DIR$/travelapp/templates/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/top-offers.html" afterPath="$PROJECT_DIR$/travelapp/templates/top-offers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/globalgourmettravel.iml" afterPath="$PROJECT_DIR$/.idea/globalgourmettravel.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/globalgourmettravel/settings.py" afterPath="$PROJECT_DIR$/globalgourmettravel/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/globalgourmettravel/urls.py" afterPath="$PROJECT_DIR$/globalgourmettravel/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelapp/views.py" afterPath="$PROJECT_DIR$/travelapp/views.py" />
+    </list>
     <ignored path="globalgourmettravel.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -29,24 +297,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/globalgourmettravel/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6201117">
-              <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="110" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/globalgourmettravel/urls.py">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/travelapp/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding>
-                <element signature="e#652#684#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="3.1893806">
+              <caret line="106" column="64" selection-start-line="106" selection-start-column="64" selection-end-line="106" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/travelapp/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="21.576923">
+              <caret line="405" column="44" selection-start-line="405" selection-start-column="44" selection-end-line="405" selection-end-column="44" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,49 +331,7 @@
         <entry file="file://$PROJECT_DIR$/travelapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.884615">
-              <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cd-hero-slider.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/cd-hero-slider.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-41.192307">
-              <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="top-offers.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/top-offers.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.384615">
-              <caret line="91" column="42" selection-start-line="91" selection-start-column="42" selection-end-line="91" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.5384614">
-              <caret line="262" column="54" selection-start-line="262" selection-start-column="54" selection-end-line="262" selection-end-column="54" />
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -112,18 +346,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/travelapp/views.py" />
         <option value="$PROJECT_DIR$/travelapp/template/base.html" />
-        <option value="$PROJECT_DIR$/globalgourmettravel/urls.py" />
-        <option value="$PROJECT_DIR$/globalgourmettravel/settings.py" />
         <option value="$PROJECT_DIR$/travelapp/static/travelapp/base.html" />
         <option value="$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/cd-hero-slider.html" />
         <option value="$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/top-offers.html" />
-        <option value="$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/index.html" />
         <option value="$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/base.html" />
+        <option value="$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/footer.html" />
+        <option value="$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/index.html" />
+        <option value="$PROJECT_DIR$/globalgourmettravel/urls.py" />
+        <option value="$PROJECT_DIR$/travelapp/views.py" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/globalgourmettravel/settings.py" />
+        <option value="$PROJECT_DIR$/travelapp/templates/index.html" />
+        <option value="$PROJECT_DIR$/travelapp/templates/base.html" />
       </list>
     </option>
   </component>
@@ -138,7 +379,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -210,19 +451,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="travelapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="travelapp" />
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -236,29 +465,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="travelapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="travelapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="globalgourmettravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="globalgourmettravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="globalgourmettravel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -274,11 +481,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Toshiba L50D\dev\globalgourmettravel\travelapp\templates" />
+      <recent name="C:\Users\Toshiba L50D\dev\globalgourmettravel" />
+      <recent name="C:\Users\Toshiba L50D\dev\globalgourmettravel\travelapp\static" />
+      <recent name="C:\Users\Toshiba L50D\dev\globalgourmettravel\templates" />
       <recent name="C:\Users\Toshiba L50D\dev\globalgourmettravel\travelapp\static\travelapp\template\travelapp" />
-      <recent name="C:\Users\Toshiba L50D\dev\globalgourmettravel\travelapp\static\travelapp" />
     </key>
   </component>
   <component name="RunManager" selected="Django server.globalgourmettravel">
@@ -509,6 +720,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="globalgourmettravel.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -551,18 +763,18 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -591,10 +803,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/travelapp/views.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelapp/templates/top-offers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7802072">
+          <caret line="91" column="42" selection-start-line="91" selection-start-column="42" selection-end-line="91" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelapp/templates/cd-hero-slider.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-41.192307">
+          <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelapp/templates/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-75.19231">
+          <caret line="139" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="139" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -609,44 +845,172 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/cd-hero-slider.html">
+    <entry file="file://$PROJECT_DIR$/static/Documentation/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-41.192307">
-          <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/top-offers.html">
+    <entry file="file://$PROJECT_DIR$/static/Documentation/assets/images/logo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Documentation/assets/images/guide.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Documentation/assets/images/meteo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Documentation/assets/images/counter.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Documentation/assets/images/carousel.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Documentation/assets/images/listTrip.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Documentation/assets/images/slideCenter.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Documentation/assets/images/reservationForm.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Documentation/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.384615">
-          <caret line="91" column="42" selection-start-line="91" selection-start-column="42" selection-end-line="91" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/index.html">
+    <entry file="file://$PROJECT_DIR$/static/js/list/jquery.mixitup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.5384614">
-          <caret line="262" column="54" selection-start-line="262" selection-start-column="54" selection-end-line="262" selection-end-column="54" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/travelapp/static/travelapp/template/travelapp/base.html">
+    <entry file="file://$PROJECT_DIR$/static/js/list/classie.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.884615">
-          <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/list/modernizr.custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/list/cbpViewModeSwitch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/list/jquery.mixitup.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/tabs/jquery.responsiveTabs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/tabs/jquery.responsiveTabs.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/meteo/jquery.zweatherfeed.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/meteo/jquery.zweatherfeed.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1460631337348" expanded="true" signature="3186:3298" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/gallery/classie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelapp/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="21.576923">
+          <caret line="405" column="44" selection-start-line="405" selection-start-column="44" selection-end-line="405" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/globalgourmettravel/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6201117">
-          <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="110" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelapp/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.1893806">
+          <caret line="106" column="64" selection-start-line="106" selection-start-column="64" selection-end-line="106" selection-end-column="64" />
           <folding />
         </state>
       </provider>

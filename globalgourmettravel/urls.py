@@ -19,5 +19,5 @@ from travelapp import views
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^$', views.get_index, name='index'),
+    url(r'^$', views.index, name='index'),
 ]
