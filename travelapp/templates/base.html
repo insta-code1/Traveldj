@@ -51,15 +51,6 @@
                             class="fa fa-envelope"></i><span>info@globalgourmettravel.com/</span></div>
                     <div class='top-login'><i class="fa fa-plus"></i><a class='reg-top' href='#'>Register</a><i
                             class="fa fa-lock"></i><a href='#'>Login</a>
-                        <div class="header-lang">
-                            <a href="#"><img alt="" src="../../static/images/flags/en.gif"/></a>
-                            <div class="langs-drop" style="display: none;">
-                                <div><a href="#" class="langs-item en">english</a></div>
-                                <div><a href="#" class="langs-item fr">francais</a></div>
-                                <div><a href="#" class="langs-item de">deutsch</a></div>
-                                <div><a href="#" class="langs-item it">italiano</a></div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -77,18 +68,6 @@
 
                 <li>
                     <a class="top-menu-txt" href="#">Home</a>
-                    <div class="grid-container3 blue-link">
-                        <ul>
-                            <li><a href="index.html">Home Layout</a></li>
-                            <li><a href="homepage1.html">Home Layout1</a></li>
-                            <li><a href="homepage2.html">Home Layout2</a></li>
-                            <li><a href="homepage3.html">Home Layout3</a></li>
-                            <li><a href="homepage4.html">Home Layout4</a></li>
-                            <li><a href="homepage5.html">Home Layout5</a></li>
-                            <li><a href="homepage_oxy_slider.html">Home Oxy Slider</a></li>
-                            <li><a href="homepage_map.html">Home Map</a></li>
-                        </ul>
-                    </div>
                 </li>
 
                 <!-- resume -->
@@ -143,6 +122,11 @@
                     <a class="top-menu-txt" href="gallery-3col.html">Activities</a>
                 </li>
                 <!--/ Activities -->
+                <!--blog -->
+                <li>
+                    <a class="top-menu-txt" href="{% url 'blog_index' %}">Blog</a>
+                </li>
+                <!--/ Blog -->
                 <!-- page -->
                 <li class="center">
                     <a class="top-menu-txt" href="#">Pages</a>
@@ -221,16 +205,6 @@
                 <!-- about -->
                 <li class="line-mini-menu k-opn">
                     <a class="top-menu-txt" href="#">Home</a>
-                    <div class="grid-container3 collapse blue-link">
-                        <ul>
-                            <li><a href="index.html">Home Layout</a></li>
-                            <li><a href="homepage1.html">Home Layout1</a></li>
-                            <li><a href="homepage2.html">Home Layout2</a></li>
-                            <li><a href="homepage3.html">Home Layout3</a></li>
-                            <li><a href="homepage_oxy_slider.html">Home Oxy Slider</a></li>
-                            <li><a href="homepage_map.html">Home Map</a></li>
-                        </ul>
-                    </div>
                 </li>
                 <!--/ about -->
 
@@ -509,19 +483,6 @@
 </script>
 
 <script src="{% static 'js/script.js' %}" type="text/javascript"></script>
-<!--Meteo Lib-->
-<!-- js/meteo/jquery.zweatherfeed.js" type="text/javascript"></script> -->
-<script type="text/javascript">
-    $(document).ready(function () {
-        "use strict";
-        $('#meteo1').weatherfeed(['UKXX0085', 'CAXX0518', 'CHXX0049'], {
-            forecast: true
-        });
-        $('#meteo2').weatherfeed(['ITXX0006', 'CAXX0504', 'JAXX0085'], {
-            forecast: true
-        });
-    });
-</script>
 
 </body>
 </html>
