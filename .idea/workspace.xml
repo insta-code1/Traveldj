@@ -2,17 +2,145 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4355c1ae-edc0-4682-ac13-f76414b30a2d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/travelapp/templates/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/travelapp/templates/headerspain.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_app/migrations/0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_app/migrations/0002_auto_20160425_1342.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/globalgourmettravel.iml" afterPath="$PROJECT_DIR$/.idea/globalgourmettravel.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_app/admin.py" afterPath="$PROJECT_DIR$/blog_app/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_app/apps.py" afterPath="$PROJECT_DIR$/blog_app/apps.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_app/models.py" afterPath="$PROJECT_DIR$/blog_app/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_app/tests.py" afterPath="$PROJECT_DIR$/blog_app/tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_app/urls.py" afterPath="$PROJECT_DIR$/blog_app/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_app/views.py" afterPath="$PROJECT_DIR$/blog_app/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/globalgourmettravel/settings.py" afterPath="$PROJECT_DIR$/globalgourmettravel/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/globalgourmettravel/urls.py" afterPath="$PROJECT_DIR$/globalgourmettravel/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/globalgourmettravel/wsgi.py" afterPath="$PROJECT_DIR$/globalgourmettravel/wsgi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manage.py" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/Documentation/css/style.css" afterPath="$PROJECT_DIR$/static/Documentation/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/Documentation/index.html" afterPath="$PROJECT_DIR$/static/Documentation/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/contact_form/contact_process.php" afterPath="$PROJECT_DIR$/static/contact_form/contact_process.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/animate.css" afterPath="$PROJECT_DIR$/static/css/animate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/carousel/component.css" afterPath="$PROJECT_DIR$/static/css/carousel/component.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/carousel/default.css" afterPath="$PROJECT_DIR$/static/css/carousel/default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/custom.css" afterPath="$PROJECT_DIR$/static/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/flexslider.css" afterPath="$PROJECT_DIR$/static/css/flexslider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/HELP-US-OUT.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/css/font-awesome.css" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/animated.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/core.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/fixed-width.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/font-awesome.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/icons.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/larger.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/list.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/mixins.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/path.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/stacked.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/variables.less" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_animated.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_core.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_icons.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_larger.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_list.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_mixins.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_path.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_stacked.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_variables.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/static/css/font-awesome-4.4.0/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/fonts/bpicons/bpicons.svg" afterPath="$PROJECT_DIR$/static/css/fonts/bpicons/bpicons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/fonts/bpicons/license.txt" afterPath="$PROJECT_DIR$/static/css/fonts/bpicons/license.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/fonts/flexslider-icon.svg" afterPath="$PROJECT_DIR$/static/css/fonts/flexslider-icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/fonts/fontawesome/fontawesome.svg" afterPath="$PROJECT_DIR$/static/css/fonts/fontawesome/fontawesome.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/gallery/component.css" afterPath="$PROJECT_DIR$/static/css/gallery/component.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/jquery-ui-1.10.4.custom.min.css" afterPath="$PROJECT_DIR$/static/css/jquery-ui-1.10.4.custom.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/jquery.bxslider.css" afterPath="$PROJECT_DIR$/static/css/jquery.bxslider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/layout2.css" afterPath="$PROJECT_DIR$/static/css/layout2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/list/component.css" afterPath="$PROJECT_DIR$/static/css/list/component.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/meteo/example.css" afterPath="$PROJECT_DIR$/static/css/meteo/example.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/oxy_slider/slider.css" afterPath="$PROJECT_DIR$/static/css/oxy_slider/slider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/preload/animate.css" afterPath="$PROJECT_DIR$/static/css/preload/animate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/preload/main.css" afterPath="$PROJECT_DIR$/static/css/preload/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/responsive.css" afterPath="$PROJECT_DIR$/static/css/responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/settings.css" afterPath="$PROJECT_DIR$/static/css/settings.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/settings_slide2.css" afterPath="$PROJECT_DIR$/static/css/settings_slide2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/travel-mega-menu.css" afterPath="$PROJECT_DIR$/static/css/travel-mega-menu.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/bootstrap-hover-dropdown.min.js" afterPath="$PROJECT_DIR$/static/js/bootstrap-hover-dropdown.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/carousel/jquery.cbpContentSlider.js" afterPath="$PROJECT_DIR$/static/js/carousel/jquery.cbpContentSlider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/carousel/modernizr.custom.js" afterPath="$PROJECT_DIR$/static/js/carousel/modernizr.custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/cbpFWTabs.js" afterPath="$PROJECT_DIR$/static/js/cbpFWTabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/gallery/cbpGridGallery.js" afterPath="$PROJECT_DIR$/static/js/gallery/cbpGridGallery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/gallery/classie.js" afterPath="$PROJECT_DIR$/static/js/gallery/classie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/gallery/imagesloaded.pkgd.min.js" afterPath="$PROJECT_DIR$/static/js/gallery/imagesloaded.pkgd.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/gallery/isotope.js" afterPath="$PROJECT_DIR$/static/js/gallery/isotope.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/gallery/masonry.pkgd.min.js" afterPath="$PROJECT_DIR$/static/js/gallery/masonry.pkgd.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery-1.10.1.min.js" afterPath="$PROJECT_DIR$/static/js/jquery-1.10.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery-migrate-1.2.1.min.js" afterPath="$PROJECT_DIR$/static/js/jquery-migrate-1.2.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery-ui-1.10.4.custom.min.js" afterPath="$PROJECT_DIR$/static/js/jquery-ui-1.10.4.custom.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.accordion.js" afterPath="$PROJECT_DIR$/static/js/jquery.accordion.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.bxslider.js" afterPath="$PROJECT_DIR$/static/js/jquery.bxslider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.bxslider.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.bxslider.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.counterup.js" afterPath="$PROJECT_DIR$/static/js/jquery.counterup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.easing.1.3.js" afterPath="$PROJECT_DIR$/static/js/jquery.easing.1.3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.mb.YTPlayer.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.mb.YTPlayer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.themepunch.plugins.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.themepunch.plugins.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.themepunch.revolution.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.themepunch.revolution.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/list/cbpViewModeSwitch.js" afterPath="$PROJECT_DIR$/static/js/list/cbpViewModeSwitch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/list/classie.js" afterPath="$PROJECT_DIR$/static/js/list/classie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/list/jquery.mixitup.js" afterPath="$PROJECT_DIR$/static/js/list/jquery.mixitup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/list/jquery.mixitup.min.js" afterPath="$PROJECT_DIR$/static/js/list/jquery.mixitup.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/list/modernizr.custom.js" afterPath="$PROJECT_DIR$/static/js/list/modernizr.custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/meteo/jquery.zweatherfeed.js" afterPath="$PROJECT_DIR$/static/js/meteo/jquery.zweatherfeed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/meteo/jquery.zweatherfeed.min.js" afterPath="$PROJECT_DIR$/static/js/meteo/jquery.zweatherfeed.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/modernizr.js" afterPath="$PROJECT_DIR$/static/js/modernizr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/oxy_slider/main.js" afterPath="$PROJECT_DIR$/static/js/oxy_slider/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/preload/loadImg.js" afterPath="$PROJECT_DIR$/static/js/preload/loadImg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/script.js" afterPath="$PROJECT_DIR$/static/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/slideproject/jquery.flexslider.js" afterPath="$PROJECT_DIR$/static/js/slideproject/jquery.flexslider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/slideproject/shBrushJScript.js" afterPath="$PROJECT_DIR$/static/js/slideproject/shBrushJScript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/slideproject/shBrushXml.js" afterPath="$PROJECT_DIR$/static/js/slideproject/shBrushXml.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/slideproject/shCore.js" afterPath="$PROJECT_DIR$/static/js/slideproject/shCore.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/tabs/jquery.responsiveTabs.js" afterPath="$PROJECT_DIR$/static/js/tabs/jquery.responsiveTabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/tabs/jquery.responsiveTabs.min.js" afterPath="$PROJECT_DIR$/static/js/tabs/jquery.responsiveTabs.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/waypoints.min.js" afterPath="$PROJECT_DIR$/static/js/waypoints.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tour_app/admin.py" afterPath="$PROJECT_DIR$/tour_app/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tour_app/apps.py" afterPath="$PROJECT_DIR$/tour_app/apps.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tour_app/models.py" afterPath="$PROJECT_DIR$/tour_app/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tour_app/tests.py" afterPath="$PROJECT_DIR$/tour_app/tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tour_app/views.py" afterPath="$PROJECT_DIR$/tour_app/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelapp/admin.py" afterPath="$PROJECT_DIR$/travelapp/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelapp/apps.py" afterPath="$PROJECT_DIR$/travelapp/apps.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelapp/models.py" afterPath="$PROJECT_DIR$/travelapp/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelapp/templates/base.html" afterPath="$PROJECT_DIR$/travelapp/templates/base.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelapp/templates/blogposts.html" afterPath="$PROJECT_DIR$/travelapp/templates/blogposts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelapp/templates/cd-hero-slider.html" afterPath="$PROJECT_DIR$/travelapp/templates/cd-hero-slider.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelapp/templates/footer.html" afterPath="$PROJECT_DIR$/travelapp/templates/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelapp/templates/header.html" afterPath="$PROJECT_DIR$/travelapp/templates/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelapp/templates/headerspain.html" afterPath="$PROJECT_DIR$/travelapp/templates/headerspain.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelapp/templates/index.html" afterPath="$PROJECT_DIR$/travelapp/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelapp/templates/nav.html" afterPath="$PROJECT_DIR$/travelapp/templates/nav.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelapp/templates/spainguide.html" afterPath="$PROJECT_DIR$/travelapp/templates/spainguide.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelapp/templates/top-offers.html" afterPath="$PROJECT_DIR$/travelapp/templates/top-offers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelapp/tests.py" afterPath="$PROJECT_DIR$/travelapp/tests.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelapp/views.py" afterPath="$PROJECT_DIR$/travelapp/views.py" />
     </list>
     <ignored path="globalgourmettravel.iws" />
@@ -72,18 +200,18 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/globalgourmettravel/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+            <state relative-caret-position="560">
+              <caret line="132" column="0" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog_app/urls.py">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/accounts/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -91,13 +219,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/globalgourmettravel/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3523316">
-              <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+            <state relative-caret-position="323">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
               <folding>
                 <element signature="e#652#693#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog_app/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -135,7 +275,6 @@
         <option value="$PROJECT_DIR$/tour_app/models.py" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/Requirements.txt" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/blog_app/admin.py" />
         <option value="$PROJECT_DIR$/travelapp/views.py" />
         <option value="$PROJECT_DIR$/travelapp/templates/nav.html" />
@@ -143,14 +282,20 @@
         <option value="$PROJECT_DIR$/travelapp/templates/header.html" />
         <option value="$PROJECT_DIR$/travelapp/templates/headerspain.html" />
         <option value="$PROJECT_DIR$/travelapp/templates/spainguide.html" />
-        <option value="$PROJECT_DIR$/blog_app/models.py" />
         <option value="$PROJECT_DIR$/travelapp/templates/blogposts.html" />
         <option value="$PROJECT_DIR$/auth/urls.py" />
         <option value="$PROJECT_DIR$/travelapp/templates/index.html" />
         <option value="$PROJECT_DIR$/auth/templates/login.html" />
         <option value="$PROJECT_DIR$/register/urls.py" />
-        <option value="$PROJECT_DIR$/globalgourmettravel/settings.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/accounts/models.py" />
+        <option value="$PROJECT_DIR$/accounts/backends.py" />
+        <option value="$PROJECT_DIR$/MyReusableAuthPkg-master/reusable_auth/forms.py" />
+        <option value="$PROJECT_DIR$/MyReusableAuthPkg-master/reusable_auth/views.py" />
         <option value="$PROJECT_DIR$/globalgourmettravel/urls.py" />
+        <option value="$PROJECT_DIR$/globalgourmettravel/settings.py" />
+        <option value="$PROJECT_DIR$/blog_app/models.py" />
+        <option value="$PROJECT_DIR$/accounts/urls.py" />
       </list>
     </option>
   </component>
@@ -160,9 +305,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1378" />
-    <option name="height" value="744" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -189,6 +335,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,7 +350,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="globalgourmettravel" />
+              <option name="myItemId" value="Traveldj" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -213,7 +360,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Traveldj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="travelapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="globalgourmettravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Traveldj" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -227,50 +388,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="globalgourmettravel" />
+              <option name="myItemId" value="Traveldj" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="globalgourmettravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="globalgourmettravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="globalgourmettravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="globalgourmettravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="globalgourmettravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="migrations" />
+              <option name="myItemId" value="accounts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -284,25 +412,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Traveldj\travelapp\templates" />
+      <recent name="D:\Traveldj\accounts" />
       <recent name="C:\Users\Toshiba L50D\dev\globalgourmettravel\travelapp" />
       <recent name="C:\Users\Toshiba L50D\dev\globalgourmettravel" />
       <recent name="C:\Users\Toshiba L50D\dev\globalgourmettravel\globalgourmettravel" />
-      <recent name="C:\Users\Toshiba L50D\dev\globalgourmettravel\blog_app" />
-      <recent name="C:\Users\Toshiba L50D\dev\globalgourmettravel\travelapp\templates" />
     </key>
   </component>
   <component name="RunManager" selected="Django server.globalgourmettravel">
-    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -395,7 +512,21 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="globalgourmettravel" />
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
@@ -406,6 +537,7 @@
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run-script" />
       <scripts />
+      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
@@ -547,7 +679,9 @@
       <item index="0" class="java.lang.String" itemvalue="Django server.globalgourmettravel" />
     </list>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -556,24 +690,24 @@
       <changelist id="4355c1ae-edc0-4682-ac13-f76414b30a2d" name="Default" comment="" />
       <created>1460630555378</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1460630555378</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19423369" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19616205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32299545" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32242227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32218507" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18003273" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17948718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -581,6 +715,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -592,9 +727,9 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26841244" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41898528" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22012103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32242227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17948718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19616205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32299545" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -616,220 +751,118 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/blog_app/models.py</url>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/Documentation/assets/images/logo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/Documentation/assets/images/guide.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/Documentation/assets/images/meteo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/Documentation/assets/images/counter.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/Documentation/assets/images/carousel.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/Documentation/assets/images/listTrip.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/Documentation/assets/images/slideCenter.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/Documentation/assets/images/reservationForm.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/Documentation/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/font-awesome-4.4.0/css/font-awesome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.1636364">
-          <caret line="708" column="9" selection-start-line="708" selection-start-column="1" selection-end-line="708" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/c0104869/62c7150b-55f4-4268-8b72-e3a2947856ba/django_migrations">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_app/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36657682">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tour_app/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/travelapp/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/travelapp/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tour_app/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/gallery/classie.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66480446">
+        <state relative-caret-position="0">
           <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/meteo/jquery.zweatherfeed.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/meteo/jquery.zweatherfeed.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/tabs/jquery.responsiveTabs.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/tabs/jquery.responsiveTabs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.024745269">
+        <state relative-caret-position="0">
           <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/list/classie.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/list/jquery.mixitup.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/list/jquery.mixitup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/list/modernizr.custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/list/cbpViewModeSwitch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="36" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/globalgourmettravel/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/travelapp/templates/top-offers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
+        <state relative-caret-position="0">
           <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/travelapp/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -837,33 +870,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog_app/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/oxy_slider/slider.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="33.346153">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/travelapp/templates/cd-hero-slider.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.518851">
+        <state relative-caret-position="0">
           <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/travelapp/templates/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
+        <state relative-caret-position="0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="35" selection-end-column="68" />
           <folding />
         </state>
@@ -871,23 +899,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/travelapp/templates/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9230769">
+        <state relative-caret-position="0">
           <caret line="6" column="87" selection-start-line="6" selection-start-column="87" selection-end-line="6" selection-end-column="87" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/travelapp/templates/headerspain.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.653846">
+        <state relative-caret-position="0">
           <caret line="26" column="93" selection-start-line="26" selection-start-column="93" selection-end-line="26" selection-end-column="93" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/travelapp/templates/blogposts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4578097">
+        <state relative-caret-position="0">
           <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
           <folding />
         </state>
@@ -895,15 +921,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/layout2.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="122.52424">
+        <state relative-caret-position="0">
           <caret line="5457" column="35" selection-start-line="5457" selection-start-column="35" selection-end-line="5457" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/travelapp/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
+        <state relative-caret-position="0">
           <caret line="197" column="31" selection-start-line="197" selection-start-column="17" selection-end-line="197" selection-end-column="31" />
           <folding />
         </state>
@@ -911,23 +936,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/travelapp/templates/nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
+        <state relative-caret-position="0">
           <caret line="161" column="113" selection-start-line="161" selection-start-column="103" selection-end-line="161" selection-end-column="113" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_app/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40823328">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/travelapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2915952">
+        <state relative-caret-position="0">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
@@ -935,7 +952,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/travelapp/templates/spainguide.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.094444446">
+        <state relative-caret-position="0">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding />
         </state>
@@ -943,36 +960,208 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/travelapp/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37777779">
+        <state relative-caret-position="0">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/globalgourmettravel/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog_app/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="51">
           <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#32#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zE8B85FAA3/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zE8B82ABF3/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/backends.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#24#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyReusableAuthPkg-master/reusable_auth/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelapp/templates/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelapp/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyReusableAuthPkg-master/reusable_auth/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyReusableAuthPkg-master/reusable_auth/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelapp/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyReusableAuthPkg-master/reusable_auth/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyReusableAuthPkg-master/reusable_auth/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/globalgourmettravel/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3523316">
-          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        <state relative-caret-position="323">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
           <folding>
             <element signature="e#652#693#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tour_app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/globalgourmettravel/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="132" column="0" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>

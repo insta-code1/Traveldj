@@ -23,10 +23,13 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', views.index, name='index'),
 
-    #Guides ulrs
+    # Accounts URLs
+    url(r'', include('accounts.urls')),
+
+    #Guides URLs
     url(r'^spain$', views.spainguide, name='spain'),
 
-    # Blog app urls
+    # Blog app URLs
     url(r'', include('blog_app.urls')),
     # static and media url
     url(r'^static/(?P<path>.*)$', static_views.serve),
