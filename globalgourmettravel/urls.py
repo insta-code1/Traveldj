@@ -17,10 +17,18 @@ from django.conf.urls import url, include
 from django.contrib import admin
 from travelapp import views
 from django.contrib.staticfiles import views as static_views
+from .settings import MEDIA_ROOT
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', views.index, name='index'),
+
+    #Guides ulrs
+    url(r'^spain$', views.spainguide, name='spain'),
+
+    # Blog app urls
     url(r'', include('blog_app.urls')),
+    # static and media url
     url(r'^static/(?P<path>.*)$', static_views.serve),
+    url(r'^media/(?P<path>.*)$', 'django.views.static.serve', {'document_root': MEDIA_ROOT}),
 ]

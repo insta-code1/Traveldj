@@ -4,3 +4,7 @@ from django.shortcuts import render
 
 def index(request):
     return render(request, 'index.html')
+
+
+def spainguide(request):
+    return render(request, 'spainguide.html')

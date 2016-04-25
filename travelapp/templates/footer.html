@@ -1,9 +1,10 @@
+</div>
 <section id="footer">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="col-md-3">
-                    <img class='logo-footer' src="{% static 'travelapp/../static/images/travego.png' %} alt='logo'/>
+                    <img class='logo-footer' src="{% static 'images/travego.png' %}" alt='logo'/>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque arcu lorem, mattis quis
                         convallis ac</p>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque arcu lorem, mattis quis
@@ -48,7 +49,7 @@
                         <a href="#"><i class="fa fa-facebook"></i></a>
                         <a href="#"><i class="fa fa-dribbble"></i></a>
                         <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-instagram"></i></a>
+                        <a href="https://www.instagram.com/globalgourmettravel/" target="_blank"><i class="fa fa-instagram"></i></a>
                         <a href="#"><i class="fa fa-google"></i></a></div>
                 </div>
 
@@ -71,7 +72,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="col-xs-6 copyright">Travego © 2015 Name All Rights Reserved</div>
+                    <div class="col-xs-6 copyright">Global Gourmet Travel © 2015 Name All Rights Reserved</div>
                     <div class="col-xs-6 payment-card">
                         <i class="fa fa-2x fa-cc-visa"></i>
                         <i class="fa fa-2x fa-cc-mastercard"></i>
@@ -85,13 +86,13 @@
 </section>
 
 
-<script src="{% static 'travelapp/../static/js/modernizr.js' %}" type="text/javascript"></script>
-<script src="{% static 'travelapp/../static/js/jquery-1.10.1.min.js' %}" type="text/javascript"></script>
-<script src=""{% static 'travelapp/../static/js/jquery-migrate-1.2.1.min.js' %}"js/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
-<script src="{% static 'travelapp/../static/js/modernizr.js' %}" type="text/javascript"></script>
-<script src="{% static 'travelapp/../static/js/jquery.easing.1.3.js' %}"></script>
+<script src="{% static 'js/modernizr.js' %}" type="text/javascript"></script>
+<script src="{% static 'js/jquery-1.10.1.min.js' %}" type="text/javascript"></script>
+<script src=""{% static 'js/jquery-migrate-1.2.1.min.js' %} type="text/javascript"></script>
+<script src="{% static 'js/modernizr.js' %}" type="text/javascript"></script>
+<script src="{% static 'js/jquery.easing.1.3.js' %}"></script>
 <!-- waypoint -->
-<script type="text/javascript" src="{% static 'travelapp/../static/js/waypoints.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/waypoints.min.js' %}"></script>
 <!--Preload-->
 <script type="text/javascript">
     $(document).ready(function ($) {
@@ -106,12 +107,12 @@
         }
     });
 </script>
-<script src="{% static 'travelapp/../static/js/oxy_slider/main.js' %}" type="text/javascript"></script>
+<script src="{% static 'js/oxy_slider/main.js' %}" type="text/javascript"></script>
 
-<script type="text/javascript" src="{% static 'travelapp/../static/js/bootstrap.min.js' %}"></script>
-<script src="{% static 'travelapp/../static/js/bootstrap-hover-dropdown.min.js' %}" type="text/javascript"></script>
+<script type="text/javascript" src="{% static 'js/bootstrap.min.js' %}"></script>
+<script src="{% static 'js/bootstrap-hover-dropdown.min.js' %}" type="text/javascript"></script>
 <!--bxSlider-->
-<script src="{% static 'travelapp/../static/js/jquery.bxslider.js' %}" type="text/javascript"></script>
+<script src="{% static 'js/jquery.bxslider.js' %}" type="text/javascript"></script>
 <script type="text/javascript">
     $(document).ready(function () {
         "use strict";
@@ -121,20 +122,7 @@
     });
 </script>
 
-<script src="{% static 'travelapp/../static/js/script.js' %}" type="text/javascript"></script>
-<!--Meteo Lib-->
-<!-- <script src="{% static 'travelapp/../static/js/???' %}"js/meteo/jquery.zweatherfeed.js" type="text/javascript"></script> -->
-<script type="text/javascript">
-    $(document).ready(function () {
-        "use strict";
-        $('#meteo1').weatherfeed(['UKXX0085', 'CAXX0518', 'CHXX0049'], {
-            forecast: true
-        });
-        $('#meteo2').weatherfeed(['ITXX0006', 'CAXX0504', 'JAXX0085'], {
-            forecast: true
-        });
-    });
-</script>
+<script src="{% static 'js/script.js' %}" type="text/javascript"></script>
 
 </body>
 </html>
