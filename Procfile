@@ -1,1 +1,1 @@
-web: gunicorn globalgourmenttravel.wsgi:application
+web: gunicorn globalgourmettravel.wsgi:application

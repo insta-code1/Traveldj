@@ -1,4 +1,4 @@
-{% extends 'header.html' %}
+{% extends 'base.html' %}
 {% load staticfiles %}
 {% block content %}
 {% include 'nav.html' %}
@@ -31,7 +31,7 @@
                                 <li><label>Population:</label>15 million</li>
                             </ul>
                         </div>
-                        <img src="img/thumb/alhambra_palace_mtns.jpg" alt="" />
+                        <img src="{% static 'img/thumb/mountains-and-vines.jpg' %}" alt="" />
                         </div>
                        <h3>Andalucia Gourmet Discovery Tour</h3>
                         <p>Imagine being picked up at your collection point, by your personal driver in one of our exclusive new 7 person Mercedes tourer and being whisked away to our first stop, UNESCO World Heritage Granada. Enjoy some of the most magnificent countryside passing through unique pueblo blanco, white villages, that appear to have stood still for over 2,000 years. Avoiding the queues in Granada, you will have a guided tour of the magnificent Alhambra Palace and Gardens, the home of Moorish Sultans from the 12th century, virtually unchanged today. Marvel at the mosaics, the scale, the sheer opulence, the scents from the garden’s, the views. A sensorial experience. Then on for our first tastings at one of Andalucia’s most loved wineries. Delight in plates of homemade tapas, from ancient recipes, with a glass of vino out on the terrace. Perhaps you will be joined by the owners over lunch. This afternoon we visit 2 boutique wineries, who’s wines have won international acclaim. Savour the different flavours, learn about the terroir that make these wines unique, enjoy the stories maybe even crush a grape or two!</p>
@@ -246,4 +246,3 @@
     </div>
 </section>
 {% endblock %}
-{% include 'footer.html' %}
